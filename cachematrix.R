@@ -1,5 +1,5 @@
 ## This R code contains a pair of functions that is able to cache the Inverse of a Matrix,
-## a potentially timeconsuming computation 
+## which a potentially time consuming or costly computation.
 
 ## This function creates a special "matrix" object that can cache its inverse.
 
